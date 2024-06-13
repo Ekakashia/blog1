@@ -1,0 +1,56 @@
+
+
+body{
+    background-image: url(banner-blog.jpg);
+    height: 100%;
+    z-index: -1;
+}
+
+.navbari {
+    background-color: aqua;
+    position: fixed;
+    z-index: 1;
+    top: 0 !important;
+    overflow: hidden;
+    height: 70px;
+    width: 100%;
+}
+a {
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+}
+.h1text{
+    font-weight: bolder;
+    color: green;
+}
+.pfooter{
+    font-size: 30px;
+    font-weight: bold;
+}
+.pfooter1{
+    font-size: 15px;
+    font-weight: lighter;
+}
+.maincard{
+    border: 1px solid lightblue;
+}
+.addbloginpt {
+    width: 300px !important;
+    height: 50px;
+    border: 1px solid aquamarine;
+    border-radius: 5px;
+    background-color: aquamarine;
+}
+.adblgquill{
+    background-color: aquamarine;
+    border: 1px solid aquamarine;
+}
+.addBlogBtn2 {
+    height: 42px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    background-color: blue;
+    color: white;
+    font-weight: bolder;
+}
